@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223436601555",
+    "firebase_url": "https://carststack-default-rtdb.firebaseio.com",
+    "project_id": "carststack",
+    "storage_bucket": "carststack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223436601555:android:d6472ca6ff52d3a37c3c26",
+        "android_client_info": {
+          "package_name": "com.example.projectcsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223436601555-ouo6p0lj35lk26j8u52al8687p7v3l18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectcsms",
+            "certificate_hash": "1df4d788b8817108f519322e7e05af73f3269da7"
+          }
+        },
+        {
+          "client_id": "223436601555-m700mcdnekg7fh51p8fti132emjrs773.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB813TUHSpB08YdS1cSV7hooAis1Pj4IRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223436601555-m700mcdnekg7fh51p8fti132emjrs773.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
